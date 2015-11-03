@@ -1,5 +1,6 @@
 This sample project demonstrates the below:
 
+
 1.) Verifying fingerprints from file.
 2.) Identifying fingerprints from database.
 
