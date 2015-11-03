@@ -1,6 +1,6 @@
 This sample project demonstrates the below:
 
-
+changes made for b1
 1.) Verifying fingerprints from file.
 2.) Identifying fingerprints from database.
 
